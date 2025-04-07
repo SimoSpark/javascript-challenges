@@ -7,7 +7,8 @@ Here I’m solving different JavaScript problems to practice logic and improve m
 
 | Challenge         | Description                                 |
 |------------------|---------------------------------------------|
-| `second-highest` | Find the second largest number in an array  |
+| `second-highest` | Find the second largest number in an array
+| `chroma-changer` |Change Background Color on Click             |
 
 ## 📌 How it works
 

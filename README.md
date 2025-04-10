@@ -10,6 +10,9 @@ Here I’m solving different JavaScript problems to practice logic and improve m
 | `second-highest` | Find the second largest number in an array
 | `chroma-changer` |Change Background Color on Click             |
 | `palindrome-checker` |check if a string is a palindrome        |
+| `count-vowels` |counts the number of vowels in a given word or sentence |
+
+
 
 ## 📌 How it works
 

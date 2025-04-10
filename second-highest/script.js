@@ -5,16 +5,16 @@ function secondHighest(arr) {
   unique.sort((a, b) => b - a);//sort descending (big to small)
   return unique[1];
 }
-// 
+//
 
 function handleClick() {
   const input = document.getElementById("numberInput").value;
   const numArray = input
     .split(",")
-    .map(n => parseInt(n.trim()))
-    .filter(n => !isNaN(n));
+    .map(n => parseInt(n.trim()))// parseInt : turns it to number & trim : removes space ' 5' => '5'
+    .filter(n => !isNaN(n));//is not a number 
 
   const result = secondHighest(numArray);
-  document.getElementById("result").textContent =
+  document.getElementById("res").textContent =
     result !== null ? `Second highest number is: ${result}` : "Not enough unique numbers!";
 }

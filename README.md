@@ -10,7 +10,8 @@ Here I’m solving different JavaScript problems to practice logic and improve m
 | `second-highest` | Find the second largest number in an array
 | `chroma-changer` |Change Background Color on Click             |
 | `palindrome-checker` |check if a string is a palindrome        |
-| `count-vowels` |counts the number of vowels in a given word or sentence |
+| `count-vowels` |count the number of vowels in a given word or sentence |
+| `fizzbuzz-twist` |FizzBuzz challenge with a twist |
 
 
 
@@ -22,7 +23,7 @@ Each challenge is inside its own folder with the code and a small explanation or
 
 - JavaScript (Vanilla)
 - HTML & CSS (for visual challenges)
-- Git & GitHub
+- Git & GitHub <br/>
 I'll keep updating this repo as I solve more problems like:
 - Reverse a string
 - Check for palindromes

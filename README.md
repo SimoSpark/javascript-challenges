@@ -12,7 +12,8 @@ Here I’m solving different JavaScript problems to practice logic and improve m
 | `palindrome-checker` |check if a string is a palindrome        |
 | `count-vowels` |count the number of vowels in a given word or sentence |
 | `fizzbuzz-twist` |FizzBuzz challenge with a twist |
-| `Factorial-Finder` |calcul the factorial of a number |
+| `factorial-finder` |calcul the factorial of a number |
+| `tobe-orNot-toBe` |leetcode the 3rd day challenge |
 
 
 

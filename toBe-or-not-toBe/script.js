@@ -31,12 +31,12 @@ let expect = function(val) {
 try {
     console.log(expect(5).toBe(5)); // true
 } catch (e) {
-    console.error(e.message);
+    console.log(e.message);
 }
 
 try {
     console.log(expect(5).notToBe(5)); // throws "Equal"
 } catch (e) {
-    console.error(e.message); // logs: Equal
+    console.log(e.message); // logs: Equal
 }
  

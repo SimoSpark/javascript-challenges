@@ -12,20 +12,31 @@ let expect = function(val) {
       toBe: function(expectNum) {
          if (val === expectNum){
              return true;
-         }
-         else {
+         
+         } else {
          throw new Error("Not Equal");
          }
      },
-      notToBe : function(expectNum){
-         if (val !== expectNum) return true
-         else {
-         throw new Error("Not Equal");
-
+      notToBe: function(expectNum){
+         if (val !== expectNum){
+          return true;
+         
+          } else {
+         throw new Error("Equal");
          }
      }
     };
  };
  
-  console.log(expect(5).toBe(5)); // true
+try {
+    console.log(expect(5).toBe(5)); // true
+} catch (e) {
+    console.error(e.message);
+}
+
+try {
+    console.log(expect(5).notToBe(5)); // throws "Equal"
+} catch (e) {
+    console.error(e.message); // logs: Equal
+}
  

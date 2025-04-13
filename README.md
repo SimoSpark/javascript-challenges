@@ -14,6 +14,7 @@ Here I’m solving different JavaScript problems to practice logic and improve m
 | `fizzbuzz-twist` |FizzBuzz challenge with a twist |
 | `factorial-finder` |calcul the factorial of a number |
 | `tobe-orNot-toBe` |leetcode the 3rd day challenge |
+| `word-frequency-counter` |Count how many times each word appears in a sentence |
 
 
 

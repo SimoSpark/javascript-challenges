@@ -15,6 +15,7 @@ Here I’m solving different JavaScript problems to practice logic and improve m
 | `factorial-finder` |calcul the factorial of a number |
 | `tobe-orNot-toBe` |leetcode the 3rd day challenge |
 | `word-frequency-counter` |Count how many times each word appears in a sentence |
+| `Password-Generator` |Generates a random password based on giving settings |
 
 
 

@@ -18,6 +18,7 @@ Here I’m solving different JavaScript problems to practice logic and improve m
 | `Password-Generator` |Generates a random password based on giving settings |
 | `counting-sheep` |count the number of sheep present in the array |
 | `return-negative` |make a given number to negative |
+| `countPos-sumNeg` |count of positives numbers and sum of negatives numbers  |
 
 
 

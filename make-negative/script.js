@@ -4,3 +4,7 @@ function makeNegative(num){
     else return -num
 }
 console.log(makeNegative(0))
+//we can also answering like this :
+//function makeNegative(num){
+  //return num <0 ? num : -num; }
+

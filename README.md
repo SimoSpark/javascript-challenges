@@ -19,6 +19,7 @@ Here I’m solving different JavaScript problems to practice logic and improve m
 | `counting-sheep` |count the number of sheep present in the array |
 | `return-negative` |make a given number to negative |
 | `countPos-sumNeg` |count of positives numbers and sum of negatives numbers  |
+| `count-byX` |return an array of the first n multiples of x  |
 
 
 
